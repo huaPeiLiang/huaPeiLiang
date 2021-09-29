@@ -20,7 +20,7 @@
  
  - [架构心得](https://huapeiliang.github.io/category/#/%E6%9E%B6%E6%9E%84%E4%B9%8B%E8%B7%AF)：spring boot、nacos、seata、数据隔离、权限模型、分布式日志、灰度发布等等。
  
- - [Golang](https://huapeiliang.github.io/category/#/Golang)
+ - [Golang](https://huapeiliang.github.io/category/#/Golang)：为什么学习 Go 语言、Hello World、变量声明
  
  - JVM
 
