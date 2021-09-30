@@ -10,7 +10,7 @@
 
 #### 技术写作：
 
-&emsp; [个人博客](https://huapeiliang.github.io/)
+&emsp; [个人站点](https://huapeiliang.github.io/)
 
 &emsp; 目前包含以下内容：
 
