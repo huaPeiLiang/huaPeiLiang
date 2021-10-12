@@ -20,7 +20,7 @@
  
  - [架构心得](https://huapeiliang.github.io/category/#/%E6%9E%B6%E6%9E%84%E4%B9%8B%E8%B7%AF)：spring boot、服务发现与注册、分布式事务、数据隔离、权限模型、分布式日志、灰度发布 等等。
  
- - [Golang](https://huapeiliang.github.io/category/#/Golang)：Hello World、变量声明、条件和循环、块和作用域、包名与导入路径、函数 等等。
+ - [Golang](https://huapeiliang.github.io/category/#/Golang)：Hello World、变量声明、条件和循环、块和作用域、包、函数、数组和切片 等等。
  
  - [JVM](https://huapeiliang.github.io/category/#/JVM)：垃圾回收算法、G1 分区、G1 停顿预测模型、G1 卡表和位图、JVM 内存分配 等等。
 
