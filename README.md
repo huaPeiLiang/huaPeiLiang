@@ -10,11 +10,9 @@
 
 #### 技术写作：
 
-&emsp; [个人站点](https://huapeiliang.github.io/)
+&emsp; [【 个人站点 】](https://huapeiliang.github.io/)目前包含内容如下
 
-&emsp; 目前包含以下内容：
-
- - [多线程编程](https://huapeiliang.github.io/category/#/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B)：线程池介绍、线程池 Submit 与 Execute 方法的区别、SynchronizedList 与 Vector、ThreadLocal 与 InheritableThreadLocal、线程间通信、Atomic 类、Fork Join 等等。
+ - [多线程编程](https://huapeiliang.github.io/category/#/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B)：线程池介绍、线程安全的集合对象、线程间通信、Atomic 类、Fork Join 等等。
  
  - [Redis](https://huapeiliang.github.io/category/#/Redis)：数据结构（字典、链表、跳跃表、缩列表...）、内存回收、对象共享、事务实现、WATCH 实现、慢查询 等等。
  
@@ -22,7 +20,7 @@
  
  - [Golang](https://huapeiliang.github.io/category/#/Golang)：Hello World、变量声明、条件和循环、块和作用域、包、函数、数组和切片 等等。
  
- - [JVM](https://huapeiliang.github.io/category/#/JVM)：垃圾回收算法、G1 分区、G1 停顿预测模型、G1 卡表和位图、JVM 内存分配 等等。
+ - [JVM](https://huapeiliang.github.io/category/#/JVM)：垃圾回收算法、G1（分区、停顿预测模型、卡表位图）、JVM 内存分配、类加载、GC（新生代、混合、Full） 等等。
 
 
 
