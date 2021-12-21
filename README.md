@@ -20,7 +20,7 @@
  
  - [Golang](https://huapeiliang.github.io/category/#/Golang)：Hello World、变量声明、条件和循环、块和作用域、包、函数、数组和切片 等等。
  
- - [JVM](https://huapeiliang.github.io/category/#/JVM)：垃圾回收算法、G1（分区、停顿预测模型、卡表位图）、JVM 内存分配、类加载、GC（新生代、混合、Full） 等等。
+ - [JVM](https://huapeiliang.github.io/category/#/JVM)：G1（分区、停顿预测模型、卡表位图）、JVM 内存分配、类加载、GC（新生代、混合、Full）、语法糖、HotSpot 即时编译器 等等。
 
 
 
