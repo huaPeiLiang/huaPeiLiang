@@ -8,6 +8,10 @@
 
 &emsp; [【 2018年 spring-cloud-start 】：各个 spring cloud 组件、中间件的集成与应用](https://github.com/huaPeiLiang/spring-cloud-start)
 
+#### Leet Code 解题选手
+
+&emsp; [【 Leet Code 】：持续分享解题思路](https://leetcode-cn.com/u/martin-hua/)
+
 #### 技术写作：
 
 &emsp; [【 个人站点 】](https://huapeiliang.github.io/)目前包含内容如下
