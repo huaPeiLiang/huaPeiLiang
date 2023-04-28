@@ -6,9 +6,9 @@
 
 &emsp; [【 2023年 spring-cloud-fast 】：基于 spring cloud 的架构方案](https://gitee.com/workmartin/spring-cloud-fast)
 
-&emsp; [【 2020年 fast-cloud 】：基于 spring cloud 的多种微服务解决方案](https://github.com/huaPeiLiang/fast-cloud)
+&emsp; [~~【 2020年 fast-cloud 】：基于 spring cloud 的多种微服务解决方案~~](https://github.com/huaPeiLiang/fast-cloud)
 
-&emsp; [【 2018年 spring-cloud-start 】：各个 spring cloud 组件、中间件的集成与应用](https://github.com/huaPeiLiang/spring-cloud-start)
+&emsp; [~~【 2018年 spring-cloud-start 】：各个 spring cloud 组件、中间件的集成与应用~~](https://github.com/huaPeiLiang/spring-cloud-start)
 
 #### Leet Code 解题选手
 
